@@ -8,6 +8,9 @@ public class Assignment1_DataTypes {
 			float ud =25.5f;
 		System.out.println(" Temperature of a city in degree Celcisius is:" + ud);
 		
+		
+		
+		
 }
 
 }
